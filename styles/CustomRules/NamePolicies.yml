@@ -1,0 +1,11 @@
+extends: substitution
+message: Consider using '%s' instead of '%s'
+level: warning
+ignorecase: false
+# swap maps tokens in form of bad: good
+swap:
+  '(?:Carrier.io|carrier.IO)': carrier.io
+  '(?:Smart.io|smart.IO|Smart.IO)': smart.io
+  '(?:Hvac|hvac)' : HVAC
+  '(?:Ahp|ahp)' : AHP
+  

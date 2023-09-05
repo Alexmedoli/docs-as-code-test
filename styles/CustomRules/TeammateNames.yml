@@ -1,0 +1,7 @@
+extends: spelling
+message: "Check your spelling"
+dicpath: styles/CustomRules/Dictionaries
+ignorecase: false
+severity: warning
+dictionaries: 
+  - teammate_names
