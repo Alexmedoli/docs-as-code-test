@@ -9,6 +9,6 @@ abuond
 abaund
 carier.io
 
-Alexander Medeiros
-Janet yose
+Alexandre Medeiros
+Janet jose
 Peyton Creadick
