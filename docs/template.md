@@ -5,6 +5,11 @@ section is for use if the repository will be used by consuming
 developers. Going forward, contributing developers will find their
 documentation in the Contributing.md.
 
+
+| Author | Version | Date  |
+|--------|---------|-------|
+| Alex   | 1.1     | 06/07 |
+|        |         |       |
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Reviews and                                                                                                                                              
   Approvals**                                                                                                                                                
