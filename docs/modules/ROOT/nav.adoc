@@ -1,1 +1,1 @@
-* xref:template.adoc[]
+* xref:index.adoc[]
